@@ -1,0 +1,4 @@
+node_modules/
+.quartz-cache/
+*.log
+.DS_Store
